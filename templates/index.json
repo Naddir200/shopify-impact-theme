@@ -72,6 +72,7 @@
         "logo_EijUXT": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo-cote-maison-1.png",
             "logo_width": 120,
             "link": ""
           }
