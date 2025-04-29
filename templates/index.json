@@ -126,7 +126,7 @@
         "heading_qJV3dQ"
       ],
       "custom_css": [
-        ".section-full {padding-top: 0px;}"
+        ".section-full {padding: 1; margin: 0;}"
       ],
       "name": "Rich text",
       "settings": {
