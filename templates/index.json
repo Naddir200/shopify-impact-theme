@@ -806,11 +806,11 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
+        "heading_color": "#1a1a1a",
         "heading_gradient": "",
         "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
+        "button_text_color": "#cfb997",
+        "accordion_background": "#cfb997",
         "accordion_text_color": ""
       }
     }
