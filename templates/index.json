@@ -56,6 +56,7 @@
         "logo_N9DW6x": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Le_monde_logo.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -63,7 +64,8 @@
         "logo_Yez86i": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/elle-logo-png-transparent.png",
+            "logo_width": 100,
             "link": ""
           }
         },
@@ -77,6 +79,7 @@
         "logo_tqMPkD": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/marie.png",
             "logo_width": 120,
             "link": ""
           }
