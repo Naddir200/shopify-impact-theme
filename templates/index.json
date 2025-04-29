@@ -148,7 +148,92 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"width: 100%; max-width: 100%; margin: 0 auto; padding: 10px 0;\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0929/1074/7972/files/Votre_texte_de_paragraphe_15.png?v=1745947168\" \n    alt=\"Onessa - Lampe d'ambiance sans fil\" \n    style=\"width: 100%; height: auto; display: block; max-width: 800px; margin: 0 auto;\"\n  >\n</div>",
+        "liquid": "<style>\n  .onessa-image-wrapper {\n    width: 100%;\n    max-width: 800px;\n    margin: 0 auto;\n  }\n\n  .onessa-image-wrapper img {\n    width: 100%;\n    height: auto;\n    display: block;\n  }\n\n  @media screen and (max-width: 767px) {\n    .onessa-image-wrapper img {\n      width: 375px;\n      height: 210px;\n      object-fit: cover;\n    }\n  }\n</style>\n\n<div class=\"onessa-image-wrapper\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0929/1074/7972/files/Votre_texte_de_paragraphe_15.png?v=1745947168\" \n    alt=\"Onessa Ambiance\" \n  >\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_HMr9cf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_D3LtDY": {
+          "type": "heading",
+          "settings": {
+            "text": "Ils ont accepté de partager leur expérience avec vous",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_D3LtDY"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_9RXqem": {
+      "type": "multi-column",
+      "blocks": {
+        "item_nPtdcW": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tYLz9d": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_NNabNT": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_nPtdcW",
+        "item_tYLz9d",
+        "item_NNabNT"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -423,6 +508,8 @@
     "logo_list_WGgqrF",
     "rich_text_dTipcA",
     "custom_liquid_qmEjrM",
+    "rich_text_HMr9cf",
+    "multi_column_9RXqem",
     "featured-product",
     "feature-chart",
     "faq"
