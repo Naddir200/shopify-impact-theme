@@ -97,7 +97,7 @@
         "full_width": true,
         "stack_mobile": true,
         "title": "",
-        "content": "<h3>Ils parlent de nous<br/><br/></h3>",
+        "content": "<h3><strong>Ils parlent de nous<br/><br/></strong></h3>",
         "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
@@ -135,7 +135,7 @@
         "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#000000"
       }
     },
     "custom_liquid_qmEjrM": {
@@ -175,6 +175,19 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_liquid_LYKU3B": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .trustpilot-rating {\n    display: flex;\n    flex-wrap: wrap;\n    align-items: center;\n    gap: 6px;\n    font-family: 'Poppins', sans-serif;\n    font-size: 14px;\n    color: #000;\n    font-weight: 400;\n    margin: 16px 0;\n  }\n\n  .trustpilot-rating strong {\n    font-weight: 600;\n  }\n\n  .trustpilot-stars {\n    display: flex;\n    align-items: center;\n    gap: 4px;\n  }\n\n  .trustpilot-stars img {\n    height: 18px;\n  }\n\n  .trustpilot-logo {\n    height: 18px;\n  }\n\n  @media screen and (max-width: 600px) {\n    .trustpilot-rating {\n      font-size: 13px;\n    }\n  }\n</style>\n\n<div class=\"trustpilot-rating\">\n  <span>Excellent <strong>4.6 / 5</strong></span>\n  <div class=\"trustpilot-stars\">\n    <img src=\"https://cdn.shopify.com/s/files/1/0929/1074/7972/files/trsu_etoile.svg?v=1745947722\" alt=\"Stars\">\n  </div>\n  <span>basé sur <strong>+1800 avis</strong></span>\n  <img class=\"trustpilot-logo\" src=\"https://cdn.shopify.com/s/files/1/0929/1074/7972/files/trustpilot.webp?v=1745947723\" alt=\"Trustpilot\">\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -509,6 +522,7 @@
     "rich_text_dTipcA",
     "custom_liquid_qmEjrM",
     "rich_text_HMr9cf",
+    "custom_liquid_LYKU3B",
     "multi_column_9RXqem",
     "featured-product",
     "feature-chart",
