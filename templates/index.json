@@ -372,7 +372,7 @@
         "liquid_KW46Dc": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"font-weight: 700; font-size: 14px; color: #D6002F; margin-bottom: 6px;\">\n  Plus que <span style=\"font-weight: 800;\">6</span> Onessa Glow en stock.\n</div>\n\n<div style=\"background-color: #ffd4d9; height: 8px; border-radius: 20px; width: 150px; position: relative;\">\n  <div style=\"background-color: #D6002F; width: 10%; height: 100%; border-radius: 20px; position: absolute; top: 0; left: 0;\"></div>\n</div>"
+            "liquid": "<div style=\"font-weight: 700; font-size: 13px; color: #D6002F; margin-bottom: 6px;\">\n  Plus que <span style=\"font-weight: 800;\">6</span> lampes Glow en stock.\n</div>\n\n<div style=\"background-color: #ffd4d9; height: 8px; border-radius: 20px; width: 150px; position: relative;\">\n  <div style=\"background-color: #D6002F; width: 10%; height: 100%; border-radius: 20px; position: absolute; top: 0; left: 0;\"></div>\n</div>"
           }
         },
         "buy-buttons": {
