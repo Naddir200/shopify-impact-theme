@@ -337,19 +337,11 @@
             "collapse_content": false
           }
         },
-        "variant-picker": {
-          "type": "variant_picker",
+        "kaching_bundles_app_block_rLDhXj": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
+            "product": "{{section.settings.product}}"
           }
-        },
-        "quantity-selector": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "liquid_KW46Dc": {
           "type": "liquid",
@@ -382,8 +374,7 @@
         "separator_3Ppj9g",
         "liquid_yqwQ7g",
         "description",
-        "variant-picker",
-        "quantity-selector",
+        "kaching_bundles_app_block_rLDhXj",
         "liquid_KW46Dc",
         "buy-buttons",
         "liquid_JH8tWm"
@@ -675,21 +666,21 @@
         "text_color": "#000000",
         "icon_color": "#000000",
         "list_text_color": "#000000",
-        "button_color": "#FFFFFF",
+        "button_color": "#ffffff",
         "button_hover_color": "#f0c417",
-        "button_bg_color": "#16142B",
-        "button_bg_hover_color": "#16142B",
-        "button_border_color": "#16142B",
-        "button_border_hover_color": "#16142B",
+        "button_bg_color": "#16142b",
+        "button_bg_hover_color": "#16142b",
+        "button_border_color": "#16142b",
+        "button_border_hover_color": "#16142b",
         "table_border_color": "#1a1a1a",
         "table_active_border_color": "#1a1a1a",
         "table_heading_color": "#1a1a1a",
-        "table_heading_active_color": "#FFFFFF",
+        "table_heading_active_color": "#ffffff",
         "table_heading_bg_active_color": "#1a1a1a",
         "table_column_active_bg_color": "#1a1a1a",
-        "table_row_heading_color": "#1A192E",
-        "table_row_text_color": "#1A192E",
-        "table_row_active_text_color": "#FFFFFF",
+        "table_row_heading_color": "#1a192e",
+        "table_row_text_color": "#1a192e",
+        "table_row_active_text_color": "#ffffff",
         "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
