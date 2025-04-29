@@ -26,9 +26,9 @@
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
-            "button_background": "#cfb997",
+            "button_background": "rgba(0,0,0,0)",
             "button_text_color": "#ffffff",
-            "overlay_color": "#1a1a1a",
+            "overlay_color": "#ffffff",
             "overlay_opacity": 0,
             "background": "#ffffff",
             "background_gradient": ""
