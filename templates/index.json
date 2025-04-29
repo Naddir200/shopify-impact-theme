@@ -458,24 +458,28 @@
       "blocks": {
         "list_item_RAhJm4": {
           "type": "list_item",
+          "disabled": true,
           "settings": {
             "text": "Fall asleep quicker"
           }
         },
         "list_item_ARBUaN": {
           "type": "list_item",
+          "disabled": true,
           "settings": {
             "text": "Relax & Restorative sleep"
           }
         },
         "list_item_km4GCV": {
           "type": "list_item",
+          "disabled": true,
           "settings": {
             "text": "Wake up refreshed"
           }
         },
         "list_item_kVahht": {
           "type": "list_item",
+          "disabled": true,
           "settings": {
             "text": "Plant based"
           }
@@ -609,7 +613,7 @@
         "list_text_size": 20,
         "list_text_size_mobile": 18,
         "list_text_height": 150,
-        "button": "TRY DEEP DREAMS",
+        "button": "",
         "button_url": "",
         "button_custom": false,
         "button_font": "josefin_sans_n4",
@@ -634,8 +638,8 @@
         "table_border_thickness": 1,
         "table_heading_image_size": 100,
         "table_heading_image_size_mobile": 80,
-        "first_heading": "SECTION STORE",
-        "second_heading": "Other Brands",
+        "first_heading": "Onessa",
+        "second_heading": "Les autres",
         "third_heading": "Third",
         "four_heading": "Fourth",
         "table_heading_custom": false,
@@ -672,21 +676,21 @@
         "icon_color": "#000000",
         "list_text_color": "#000000",
         "button_color": "#FFFFFF",
-        "button_hover_color": "#dad0ff",
+        "button_hover_color": "#f0c417",
         "button_bg_color": "#16142B",
         "button_bg_hover_color": "#16142B",
         "button_border_color": "#16142B",
         "button_border_hover_color": "#16142B",
-        "table_border_color": "#2D2B43",
-        "table_active_border_color": "#DAD0FF",
-        "table_heading_color": "#1A192E",
+        "table_border_color": "#1a1a1a",
+        "table_active_border_color": "#1a1a1a",
+        "table_heading_color": "#1a1a1a",
         "table_heading_active_color": "#FFFFFF",
-        "table_heading_bg_active_color": "#2D2B43",
-        "table_column_active_bg_color": "#2D2B43",
+        "table_heading_bg_active_color": "#1a1a1a",
+        "table_column_active_bg_color": "#1a1a1a",
         "table_row_heading_color": "#1A192E",
         "table_row_text_color": "#1A192E",
         "table_row_active_text_color": "#FFFFFF",
-        "background_color": "#F6F3FF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
