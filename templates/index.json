@@ -236,19 +236,6 @@
             "link_style": "link"
           }
         },
-        "item_eM8YG3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/7.jpg",
-            "column_size": "3",
-            "title": "Claire D.",
-            "heading_tag": "h4",
-            "content": "<p>J’adore le fait qu’on puisse régler la lumière. Je m’en sers en lecture le soir, c’est beaucoup plus agréable que ma lampe classique.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_nPtdcW": {
           "type": "item",
           "settings": {
@@ -274,15 +261,29 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_eM8YG3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/7.jpg",
+            "column_size": "3",
+            "title": "Claire D.",
+            "heading_tag": "h4",
+            "content": "<p>J’adore le fait qu’on puisse régler la lumière. Je m’en sers en lecture le soir, c’est beaucoup plus agréable que ma lampe classique.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_NNabNT",
         "item_tYLz9d",
         "item_EcXQL8",
-        "item_eM8YG3",
         "item_nPtdcW",
-        "item_eRjKYB"
+        "item_eRjKYB",
+        "item_eM8YG3"
       ],
       "custom_css": [],
       "name": "Multi-column",
