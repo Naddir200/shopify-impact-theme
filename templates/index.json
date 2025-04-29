@@ -708,38 +708,95 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "item_zf9x6T": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est l’autonomie ?",
+            "content": "<p>Jusqu’à <strong>20 heures</strong> selon l’intensité utilisée.</p>"
+          }
+        },
+        "item_XHbhL6": {
+          "type": "item",
+          "settings": {
+            "title": "Est-elle résistante à l’eau ?",
+            "content": "<p>Oui, elle est <strong>résistante aux éclaboussures (IP54)</strong>. Parfaite pour l’extérieur.</p>"
+          }
+        },
+        "item_N8zQ9N": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-on régler la lumière ?",
+            "content": "<p>Oui, la lampe dispose de <strong>3 températures</strong> (chaud, neutre, froid) et d’une fonction <strong>tactile dimmable</strong>.</p>"
+          }
+        },
+        "item_dzwtya": {
+          "type": "item",
+          "settings": {
+            "title": "Convient-elle pour l’extérieur ?",
+            "content": "<p>Absolument. Idéale pour la <strong>terrasse, le balcon ou même le jardin</strong>.</p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Dans quels pays livrez-vous ?",
+            "content": "<p>Nous livrons en France, Belgique, Suisse et Canada. L'international arrive bientôt !</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>La livraison standard prend entre <strong>5 à 7 jours ouvrés</strong>.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
+          "disabled": true,
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Combien coûte la livraison ?",
+            "content": "<p>La livraison est <strong>100% gratuite</strong> sur toutes les commandes.</p>"
+          }
+        },
+        "item_WMMVhN": {
+          "type": "item",
+          "settings": {
+            "title": "Comment puis-je suivre ma commande ?",
+            "content": "<p>Un numéro de suivi est envoyé dès l’expédition. Si besoin, contacte-nous à <a>contact@myonessa.com</a>.</p>"
+          }
+        },
+        "item_REBDVQ": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je retourner mon produit ?",
+            "content": "<p>Oui, vous avez <strong>30 jours</strong> pour changer d’avis. Le produit doit être dans son état d’origine.</p>"
+          }
+        },
+        "item_8XzRiW": {
+          "type": "item",
+          "settings": {
+            "title": "Proposez-vous une garantie ?",
+            "content": "<p>Oui, tous nos produits bénéficient d’une <strong>garantie de 2 ans</strong> contre les défauts de fabrication.</p>"
           }
         }
       },
       "block_order": [
+        "item_zf9x6T",
+        "item_XHbhL6",
+        "item_N8zQ9N",
+        "item_dzwtya",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_WMMVhN",
+        "item_REBDVQ",
+        "item_8XzRiW"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
