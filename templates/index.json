@@ -138,8 +138,25 @@
         "text_color": "#000000"
       }
     },
+    "image_with_text_overlay_nt7Vde": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Votre_texte_de_paragraphe_15.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "custom_liquid_qmEjrM": {
       "type": "custom-liquid",
+      "disabled": true,
       "custom_css": [],
       "name": "Custom Liquid",
       "settings": {
@@ -820,6 +837,7 @@
     "slideshow",
     "logo_list_WGgqrF",
     "rich_text_dTipcA",
+    "image_with_text_overlay_nt7Vde",
     "custom_liquid_qmEjrM",
     "rich_text_HMr9cf",
     "custom_liquid_LYKU3B",
