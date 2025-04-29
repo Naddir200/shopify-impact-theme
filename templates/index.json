@@ -170,6 +170,9 @@
       "block_order": [
         "heading_D3LtDY"
       ],
+      "custom_css": [
+        ".section-full {padding: 20; margin: 0;}"
+      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
