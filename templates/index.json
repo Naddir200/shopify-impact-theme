@@ -284,6 +284,9 @@
         "item_nPtdcW",
         "item_eRjKYB"
       ],
+      "custom_css": [
+        ".section-full {padding-top: -150px;}"
+      ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
