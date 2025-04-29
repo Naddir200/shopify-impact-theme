@@ -141,7 +141,7 @@
     "custom_liquid_qmEjrM": {
       "type": "custom-liquid",
       "custom_css": [
-        ".section-full {padding-top: 0px;}"
+        ".section-full {padding: 0; margin: 0;}"
       ],
       "name": "Custom Liquid",
       "settings": {
