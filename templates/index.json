@@ -314,25 +314,11 @@
             "heading_tag": "h2"
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
         "price": {
           "type": "price",
           "settings": {
             "show_taxes_notice": false
           }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
         },
         "description": {
           "type": "description",
@@ -360,7 +346,7 @@
             "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
-            "atc_button_text_color": "",
+            "atc_button_text_color": "#ffffff",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
@@ -369,10 +355,7 @@
       "block_order": [
         "liquid_YjEXbE",
         "title",
-        "badges",
         "price",
-        "rating",
-        "separator",
         "description",
         "variant-picker",
         "quantity-selector",
