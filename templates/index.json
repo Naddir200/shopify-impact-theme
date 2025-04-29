@@ -125,6 +125,9 @@
       "block_order": [
         "heading_qJV3dQ"
       ],
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -137,12 +140,15 @@
     },
     "custom_liquid_qmEjrM": {
       "type": "custom-liquid",
+      "custom_css": [
+        ".section-full {padding-top: 0px;}"
+      ],
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
+        "liquid": "<div style=\"width: 100%; max-width: 100%; margin: 0 auto; padding: 10px 0;\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0929/1074/7972/files/Votre_texte_de_paragraphe_15.png?v=1745947168\" \n    alt=\"Onessa - Lampe d'ambiance sans fil\" \n    style=\"width: 100%; height: auto; display: block; max-width: 800px; margin: 0 auto;\"\n  >\n</div>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
