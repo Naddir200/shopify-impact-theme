@@ -409,19 +409,19 @@
     "tabs_CiWwwt": {
       "type": "tabs",
       "blocks": {
+        "tab_Ut8BJh": {
+          "type": "tab",
+          "settings": {
+            "title": "Contenu du colis",
+            "content": "<p>Chaque commande contient :</p><ul><li>1 Lampe Onessa (ou plus selon votre offre)</li><li>1 câble de recharge USB-C</li><li>1 guide d’utilisation simple</li><li>Une expérience lumineuse inégalée ✨</li></ul>",
+            "page": ""
+          }
+        },
         "tab_ChBhNk": {
           "type": "tab",
           "settings": {
             "title": "Livraison et retours",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
-            "page": ""
-          }
-        },
-        "tab_Ut8BJh": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>👉 <strong>Livraison 100% gratuite</strong>, sans minimum d’achat.</p><p><strong>Zones desservies :</strong><br/>France, Belgique, Suisse, Canada,Luxembourg<br/>Bientôt disponible à l’international.</p><p><strong>Délais :</strong><br/>Livraison standard en <strong>5 à 7 jours ouvrés</strong>.</p><p><strong>Traitement des commandes :</strong><br/>Préparation en <strong>24 à 48h</strong> (contrôle qualité, emballage).</p><p><strong>Suivi de commande :</strong></p><ul><li>Suivi en ligne directement sur notre site</li><li>Besoin de votre numéro de suivi ? Écrivez-nous à <a><strong>contact@myonessa.com</strong></a></li></ul><p><br/></p>",
             "page": ""
           }
         },
@@ -435,8 +435,8 @@
         }
       },
       "block_order": [
-        "tab_ChBhNk",
         "tab_Ut8BJh",
+        "tab_ChBhNk",
         "tab_U8D3Mn"
       ],
       "name": "Tabs",
