@@ -366,6 +366,12 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "liquid_JH8tWm": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .onessa-features {\n    display: grid;\n    grid-template-columns: repeat(2, 1fr);\n    gap: 24px;\n    padding: 20px 0;\n  }\n\n  .onessa-feature {\n    display: flex;\n    align-items: center;\n    font-family: \"Poppins\", sans-serif;\n  }\n\n  .onessa-feature-icon {\n    width: 42px;\n    height: 42px;\n    border-radius: 50%;\n    background-color: #f5f5f5;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    margin-right: 12px;\n    flex-shrink: 0;\n  }\n\n  .onessa-feature-icon img {\n    width: 20px;\n    height: 20px;\n  }\n\n  .onessa-feature-text {\n    display: flex;\n    flex-direction: column;\n  }\n\n  .onessa-feature-text strong {\n    font-size: 14.5px;\n    color: #111;\n    font-weight: 600;\n  }\n\n  .onessa-feature-text span {\n    font-size: 13px;\n    color: #555;\n  }\n\n  @media screen and (max-width: 640px) {\n    .onessa-features {\n      grid-template-columns: 1fr;\n      gap: 16px;\n    }\n  }\n</style>\n\n<div class=\"onessa-features\">\n  <div class=\"onessa-feature\">\n    <div class=\"onessa-feature-icon\">\n      <img src=\"https://cdn-icons-png.flaticon.com/512/891/891419.png\" alt=\"Livraison\">\n    </div>\n    <div class=\"onessa-feature-text\">\n      <strong>Livraison gratuite</strong>\n      <span>Estimée en 5–7 jours</span>\n    </div>\n  </div>\n\n  <div class=\"onessa-feature\">\n    <div class=\"onessa-feature-icon\">\n      <img src=\"https://cdn-icons-png.flaticon.com/512/1828/1828640.png\" alt=\"Garantie\">\n    </div>\n    <div class=\"onessa-feature-text\">\n      <strong>Garantie</strong>\n      <span>2 ans offerts</span>\n    </div>\n  </div>\n\n  <div class=\"onessa-feature\">\n    <div class=\"onessa-feature-icon\">\n      <img src=\"https://cdn-icons-png.flaticon.com/512/709/709496.png\" alt=\"Satisfait ou remboursé\">\n    </div>\n    <div class=\"onessa-feature-text\">\n      <strong>Satisfait ou remboursé</strong>\n      <span>30 jours pour essayer sans conditions</span>\n    </div>\n  </div>\n\n  <div class=\"onessa-feature\">\n    <div class=\"onessa-feature-icon\">\n      <img src=\"https://cdn-icons-png.flaticon.com/512/126/126509.png\" alt=\"Support\">\n    </div>\n    <div class=\"onessa-feature-text\">\n      <strong>SAV Français</strong>\n      <span>Disponible 7j/7</span>\n    </div>\n  </div>\n</div>"
+          }
         }
       },
       "block_order": [
@@ -378,7 +384,8 @@
         "variant-picker",
         "quantity-selector",
         "liquid_KW46Dc",
-        "buy-buttons"
+        "buy-buttons",
+        "liquid_JH8tWm"
       ],
       "settings": {
         "full_width": false,
@@ -398,120 +405,51 @@
         "input_text_color": ""
       }
     },
-    "feature-chart": {
-      "type": "feature-chart",
+    "tabs_CiWwwt": {
+      "type": "tabs",
       "blocks": {
-        "16644246508f6fa13a-0": {
-          "type": "headings",
+        "tab_ChBhNk": {
+          "type": "tab",
           "settings": {
-            "heading_1": "Heading 1",
-            "heading_2": "Heading 2",
-            "heading_3": "Heading 3",
-            "heading_4": "Heading 4",
-            "heading_5": "",
-            "heading_6": "",
-            "heading_7": "",
-            "heading_8": "",
-            "heading_9": "",
-            "heading_10": "",
-            "heading_11": "",
-            "heading_12": "",
-            "heading_13": "",
-            "heading_14": "",
-            "heading_15": "",
-            "heading_16": "",
-            "heading_17": "",
-            "heading_18": "",
-            "heading_19": "",
-            "heading_20": ""
+            "title": "Tab 1",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "page": ""
           }
         },
-        "16644246508f6fa13a-1": {
-          "type": "values",
+        "tab_Ut8BJh": {
+          "type": "tab",
           "settings": {
-            "product": "",
-            "value_1": "<p>Yes</p>",
-            "value_2": "<p>Yes</p>",
-            "value_3": "<p>No</p>",
-            "value_4": "<p>No</p>",
-            "value_5": "",
-            "value_6": "",
-            "value_7": "",
-            "value_8": "",
-            "value_9": "",
-            "value_10": "",
-            "value_11": "",
-            "value_12": "",
-            "value_13": "",
-            "value_14": "",
-            "value_15": "",
-            "value_16": "",
-            "value_17": "",
-            "value_18": "",
-            "value_19": "",
-            "value_20": "",
-            "view_button_background": "",
-            "view_button_text_color": ""
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
           }
         },
-        "16644246508f6fa13a-2": {
-          "type": "values",
+        "tab_U8D3Mn": {
+          "type": "tab",
           "settings": {
-            "product": "",
-            "value_1": "<p>No</p>",
-            "value_2": "<p>Yes</p>",
-            "value_3": "<p>Yes</p>",
-            "value_4": "<p>No</p>",
-            "value_5": "",
-            "value_6": "",
-            "value_7": "",
-            "value_8": "",
-            "value_9": "",
-            "value_10": "",
-            "value_11": "",
-            "value_12": "",
-            "value_13": "",
-            "value_14": "",
-            "value_15": "",
-            "value_16": "",
-            "value_17": "",
-            "value_18": "",
-            "value_19": "",
-            "value_20": "",
-            "view_button_background": "",
-            "view_button_text_color": ""
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "16644246508f6fa13a-0",
-        "16644246508f6fa13a-1",
-        "16644246508f6fa13a-2"
+        "tab_ChBhNk",
+        "tab_Ut8BJh",
+        "tab_U8D3Mn"
       ],
+      "name": "Tabs",
       "settings": {
         "full_width": true,
-        "subheading": "Compare",
-        "title": "Product specification",
-        "content": "<p>Give your customers useful information about your products and showcase differences between them.</p>",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "max_rows": 5,
-        "view_all_text": "View all",
-        "view_less_text": "View less",
-        "view_product": "View",
-        "viewing_product": "",
-        "show_product_swatch": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "chart_background": "",
-        "chart_text_color": "",
-        "chart_true_false_color": ""
+        "heading_gradient": ""
       }
     },
     "faq": {
@@ -576,7 +514,7 @@
     "custom_liquid_LYKU3B",
     "multi_column_9RXqem",
     "featured-product",
-    "feature-chart",
+    "tabs_CiWwwt",
     "faq"
   ]
 }
