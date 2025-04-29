@@ -284,9 +284,7 @@
         "item_nPtdcW",
         "item_eRjKYB"
       ],
-      "custom_css": [
-        ".section-full {padding-top: -150px;}"
-      ],
+      "custom_css": [],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -304,6 +302,12 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
+        "liquid_YjEXbE": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"trust-score\" style=\"display: flex; align-items: center; font-family: 'Poppins', sans-serif; font-size: 14px; gap: 8px;\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0929/1074/7972/files/trsu_etoile.svg?v=1745947722\" alt=\"Étoiles Trustpilot\" style=\"height: 20px;\">\n  <span>\n    Noté <strong>4.6/5</strong> sur <strong>1832 avis</strong>\n  </span>\n</div>\n\n<style>\n  @media screen and (max-width: 600px) {\n    .trust-score {\n      justify-content: center;\n      font-size: 13px;\n    }\n  }\n</style>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -363,6 +367,7 @@
         }
       },
       "block_order": [
+        "liquid_YjEXbE",
         "title",
         "badges",
         "price",
