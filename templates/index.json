@@ -320,6 +320,16 @@
             "show_taxes_notice": false
           }
         },
+        "separator_3Ppj9g": {
+          "type": "separator",
+          "settings": {}
+        },
+        "liquid_yqwQ7g": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"width: 100%; max-width: 420px; margin: 0 auto; padding: 0 5px;\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0929/1074/7972/files/Concue_pour_durer.png?v=1745955018\" \n    alt=\"Conçue pour durer\" \n    style=\"width: 100%; height: auto; display: block; border-radius: 8px;\" \n    loading=\"lazy\"\n  >\n</div>"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -356,6 +366,8 @@
         "liquid_YjEXbE",
         "title",
         "price",
+        "separator_3Ppj9g",
+        "liquid_yqwQ7g",
         "description",
         "variant-picker",
         "quantity-selector",
