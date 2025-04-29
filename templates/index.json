@@ -197,13 +197,14 @@
     "multi_column_9RXqem": {
       "type": "multi-column",
       "blocks": {
-        "item_nPtdcW": {
+        "item_NNabNT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/4.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Sophie M.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je l’ai posée sur ma terrasse pour un dîner entre amis : tout le monde m’a demandé où je l’avais achetée ! Elle apporte une lumière douce et chaleureuse, sans aucun fil qui traîne.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -212,22 +213,63 @@
         "item_tYLz9d": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Camille G.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Installée dans ma chambre à coucher, elle crée une ambiance ultra cosy le soir. Et en plus, je peux la déplacer où je veux selon mes envies !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_NNabNT": {
+        "item_EcXQL8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/6.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Nicolas R.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Elle tient facilement toute une soirée sans faiblir. La recharge est rapide, et la lampe est bien stable. Très bon achat, je recommande.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_eM8YG3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/7.jpg",
+            "column_size": "3",
+            "title": "Claire D.",
+            "heading_tag": "h4",
+            "content": "<p>J’adore le fait qu’on puisse régler la lumière. Je m’en sers en lecture le soir, c’est beaucoup plus agréable que ma lampe classique.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_nPtdcW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1.jpg",
+            "column_size": "3",
+            "title": "Julien M.",
+            "heading_tag": "h4",
+            "content": "<p>Super surpris par la qualité ! Le design est vraiment élégant, elle ne bouge pas d’un poil même quand il y a un peu de vent dehors. On dirait une lampe haut de gamme.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_eRjKYB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3.jpg",
+            "column_size": "3",
+            "title": "Léa F.",
+            "heading_tag": "h4",
+            "content": "<p>Je l’utilise sur mon balcon, et franchement c’est top. Pas besoin de prise, elle éclaire juste ce qu’il faut sans agresser les yeux.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -235,9 +277,12 @@
         }
       },
       "block_order": [
-        "item_nPtdcW",
+        "item_NNabNT",
         "item_tYLz9d",
-        "item_NNabNT"
+        "item_EcXQL8",
+        "item_eM8YG3",
+        "item_nPtdcW",
+        "item_eRjKYB"
       ],
       "name": "Multi-column",
       "settings": {
