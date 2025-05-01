@@ -56,15 +56,15 @@
         "logo_N9DW6x": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Le_monde_logo.svg",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 180,
             "link": ""
           }
         },
         "logo_Yez86i": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/elle-logo-png-transparent.png",
+            "logo": "shopify://shop_images/VOGUE_revista_-_logo.png",
             "logo_width": 100,
             "link": ""
           }
@@ -72,8 +72,8 @@
         "logo_EijUXT": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-cote-maison-1.png",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/logo_femmeactuele.png",
+            "logo_width": 70,
             "link": ""
           }
         },
