@@ -457,13 +457,22 @@
             "content": "<ul><li><strong>30 jours pour changer d’avis</strong> : retour possible sans justification.</li><li><strong>Remplacement gratuit</strong> en cas de défaut de fabrication.</li><li><strong>Assistance dédiée</strong> par mail : <a>contact@myonessa.com</a><br/>Réponse rapide et accompagnement personnalisé.</li></ul>",
             "page": ""
           }
+        },
+        "tab_9WnHpK": {
+          "type": "tab",
+          "settings": {
+            "title": "Paiement sécurisé",
+            "content": "<h4><strong>Moyens de paiement acceptés</strong></h4><ul><li><strong>Cartes bancaires</strong> : Visa, MasterCard, American Express.</li><li><strong>PayPal, Apple Pay & Shop pay</strong> : Pour un paiement rapide et sécurisé.</li></ul><h4><strong>Sécurité et fiabilité</strong></h4><ul><li><strong>Cryptage des données</strong> : Toutes les transactions sont protégées par un cryptage SSL 256 bits pour garantir la sécurité de vos informations.</li><li><strong>Vérification renforcée</strong> : Chaque achat est soumis à des vérifications supplémentaires pour éviter les fraudes.</li></ul><h4><strong>Une question ?</strong></h4><p>Notre service client est disponible 24/7 pour vous répondre.<br/>Contactez-nous à <a><strong>contact@myonessa.com</strong></a></p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_dpzDtJ",
         "tab_Ut8BJh",
         "tab_ChBhNk",
-        "tab_U8D3Mn"
+        "tab_U8D3Mn",
+        "tab_9WnHpK"
       ],
       "name": "Tabs",
       "settings": {
