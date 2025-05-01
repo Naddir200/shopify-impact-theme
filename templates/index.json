@@ -738,22 +738,22 @@
         "item_XHbhL6": {
           "type": "item",
           "settings": {
-            "title": "Est-elle résistante à l’eau ?",
-            "content": "<p>Oui, elle est <strong>résistante aux éclaboussures (IP54)</strong>. Parfaite pour l’extérieur.</p>"
+            "title": "À quelle fréquence dois-je utiliser Onessa Soft ?",
+            "content": "<p>Cela dépend de l’état de vos pieds. En général,<strong>une session de 5 minutes toutes les deux semaines</strong>suffit pour garder des pieds doux et impeccables.<br/><br/></p>"
           }
         },
         "item_N8zQ9N": {
           "type": "item",
           "settings": {
-            "title": "Peut-on régler la lumière ?",
-            "content": "<p>Oui, la lampe dispose de <strong>3 températures</strong> (chaud, neutre, froid) et d’une fonction <strong>tactile dimmable</strong>.</p>"
+            "title": "Quelle est l’autonomie de la batterie ?",
+            "content": "<p>Jusqu’à <strong>90 minutes d’utilisation</strong> avec une charge complète. Ensuite, une simple recharge de <strong>quelques heures</strong> suffit pour qu’elle soit à nouveau opérationnelle.</p>"
           }
         },
         "item_dzwtya": {
           "type": "item",
           "settings": {
-            "title": "Convient-elle pour l’extérieur ?",
-            "content": "<p>Absolument. Idéale pour la <strong>terrasse, le balcon ou même le jardin</strong>.</p>"
+            "title": "Que contient le coffret ?",
+            "content": "<ul><li>Appareil <strong>Onessa Soft</strong></li><li>1 tête rugueuse</li><li>1 tête douce</li><li>1 capuchon de protection</li><li>1 câble USB de recharge</li><li>1 brosse de nettoyage</li><li>1 manuel d’utilisation</li></ul>"
           }
         },
         "166442457738b23caf-0": {
