@@ -756,6 +756,13 @@
             "content": "<ul><li>Appareil <strong>Onessa Soft</strong></li><li>1 tête rugueuse</li><li>1 tête douce</li><li>1 capuchon de protection</li><li>1 câble USB de recharge</li><li>1 brosse de nettoyage</li><li>1 manuel d’utilisation</li></ul>"
           }
         },
+        "item_ypwEEd": {
+          "type": "item",
+          "settings": {
+            "title": "Comment l’utiliser ?",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
@@ -805,6 +812,7 @@
         "item_XHbhL6",
         "item_N8zQ9N",
         "item_dzwtya",
+        "item_ypwEEd",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
