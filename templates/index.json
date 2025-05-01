@@ -255,8 +255,9 @@
         },
         "item_nPtdcW": {
           "type": "item",
+          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/4a.jpg",
+            "image": "shopify://shop_images/7a.jpg",
             "column_size": "3",
             "title": "Nadia M. ",
             "heading_tag": "h4",
