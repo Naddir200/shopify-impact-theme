@@ -21,15 +21,15 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "L’éclairage qui transforme vos soirées",
-            "heading_tag": "h2",
+            "title": "Enfin des pieds doux sans souffrir ni payer une fortune",
+            "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "rgba(0,0,0,0)",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 20,
+            "overlay_opacity": 25,
             "background": "#ffffff",
             "background_gradient": ""
           }
