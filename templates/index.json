@@ -217,11 +217,11 @@
         "item_NNabNT": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4.jpg",
+            "image": "shopify://shop_images/1_a.jpg",
             "column_size": "3",
-            "title": "Sophie M.",
+            "title": "Julie T.",
             "heading_tag": "h4",
-            "content": "<p>Je l’ai posée sur ma terrasse pour un dîner entre amis : tout le monde m’a demandé où je l’avais achetée ! Elle apporte une lumière douce et chaleureuse, sans aucun fil qui traîne.<br/><br/></p>",
+            "content": "<p>Franchement bluffée. Je pensais que ça allait être un gadget de plus, mais mes talons sont doux comme jamais dès la première utilisation.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -230,11 +230,11 @@
         "item_tYLz9d": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.jpg",
+            "image": "shopify://shop_images/2a.jpg",
             "column_size": "3",
             "title": "Camille G.",
             "heading_tag": "h4",
-            "content": "<p>Installée dans ma chambre à coucher, elle crée une ambiance ultra cosy le soir. Et en plus, je peux la déplacer où je veux selon mes envies !</p>",
+            "content": "<p>Aucune douleur, aucune sensation bizarre. Moi qui ai la peau hyper sensible, je n’ai eu aucune rougeur. C’est hyper doux.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -243,11 +243,11 @@
         "item_EcXQL8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/6.jpg",
+            "image": "shopify://shop_images/3a.jpg",
             "column_size": "3",
-            "title": "Nicolas R.",
+            "title": "Sophie R.",
             "heading_tag": "h4",
-            "content": "<p>Elle tient facilement toute une soirée sans faiblir. La recharge est rapide, et la lampe est bien stable. Très bon achat, je recommande.</p>",
+            "content": "<p>Je n’ai plus besoin de prendre rendez-vous chez la pédicure. En 5 minutes, c’est fait, à la maison. Gain de temps + d’argent.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -256,11 +256,11 @@
         "item_nPtdcW": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/1.jpg",
+            "image": "shopify://shop_images/4a.jpg",
             "column_size": "3",
-            "title": "Julien M.",
+            "title": "Nadia M. ",
             "heading_tag": "h4",
-            "content": "<p>Super surpris par la qualité ! Le design est vraiment élégant, elle ne bouge pas d’un poil même quand il y a un peu de vent dehors. On dirait une lampe haut de gamme.</p>",
+            "content": "<p>Je peux l’utiliser sans fil, n’importe où, même dans la salle de bain. Hyper pratique et se recharge vite.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -269,11 +269,11 @@
         "item_eRjKYB": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3.jpg",
+            "image": "shopify://shop_images/5a.jpg",
             "column_size": "3",
-            "title": "Léa F.",
+            "title": "Manon D.",
             "heading_tag": "h4",
-            "content": "<p>Je l’utilise sur mon balcon, et franchement c’est top. Pas besoin de prise, elle éclaire juste ce qu’il faut sans agresser les yeux.</p>",
+            "content": "<p>L’appareil est super précis. J’ai pu passer sur les côtés du pied et même entre les orteils sans souci.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -281,13 +281,12 @@
         },
         "item_eM8YG3": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/7.jpg",
+            "image": "shopify://shop_images/6a.jpg",
             "column_size": "3",
-            "title": "Claire D.",
+            "title": "Sarah B. ",
             "heading_tag": "h4",
-            "content": "<p>J’adore le fait qu’on puisse régler la lumière. Je m’en sers en lecture le soir, c’est beaucoup plus agréable que ma lampe classique.</p>",
+            "content": "<p>L’entretien est super simple. Je passe la tête sous l’eau, je sèche et c’est propre. Franchement, top.<br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
