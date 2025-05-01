@@ -426,11 +426,19 @@
     "tabs_CiWwwt": {
       "type": "tabs",
       "blocks": {
+        "tab_dpzDtJ": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab",
+            "content": "<p>Découvrez Onessa Soft, l’outil expert pour des pieds doux en quelques minutes.Grâce à sa technologie de soin 2-en-1, il élimine les callosités, la peau sèche et les talons fendillés sans douleur – pour une finition lisse et soignée, comme en institut.Rechargeable, compact et facile à utiliser, Onessa Soft s’adapte à votre routine, à la maison comme en voyage.Adoptez la solution rapide, efficace et sans effort pour retrouver des pieds doux, nets et prêts à être montrés, toute l’année.</p>",
+            "page": ""
+          }
+        },
         "tab_Ut8BJh": {
           "type": "tab",
           "settings": {
             "title": "Contenu du colis",
-            "content": "<p>Chaque commande contient :</p><ul><li>1 Lampe Onessa (ou plus selon votre offre)</li><li>1 câble de recharge USB-C</li><li>1 guide d’utilisation simple</li><li>Une expérience lumineuse inégalée ✨</li></ul>",
+            "content": "<p>Chaque commande contient :</p><ul><li>1 Onessa Soft </li><li>1 câble de recharge USB</li><li>1 guide d’utilisation simple</li><li>Une expérience inégalée ✨</li></ul>",
             "page": ""
           }
         },
@@ -452,6 +460,7 @@
         }
       },
       "block_order": [
+        "tab_dpzDtJ",
         "tab_Ut8BJh",
         "tab_ChBhNk",
         "tab_U8D3Mn"
