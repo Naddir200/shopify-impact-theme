@@ -731,8 +731,8 @@
         "item_zf9x6T": {
           "type": "item",
           "settings": {
-            "title": "Quelle est l’autonomie ?",
-            "content": "<p>Jusqu’à <strong>20 heures</strong> selon l’intensité utilisée.</p>"
+            "title": "À quelle fréquence dois-je remplacer les rouleaux ?",
+            "content": "<p>Chaque rouleau offre jusqu’à 6<strong> heures d’utilisation efficace</strong>. Un set de recharges peut vous accompagner jusqu’à 1 an selon votre fréquence d’usage.<br/><br/></p>"
           }
         },
         "item_XHbhL6": {
