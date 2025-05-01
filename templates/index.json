@@ -522,7 +522,7 @@
         "table_row_JRp4rp": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Sans fil",
+            "row_heading": "Résultats rapides",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -536,7 +536,7 @@
         "table_row_PyXLLj": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Lumière réglable",
+            "row_heading": "Sans douleur",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -550,7 +550,7 @@
         "table_row_3Lq7T4": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Tactile",
+            "row_heading": "Facile à utiliser",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -564,7 +564,7 @@
         "table_row_EeqcHw": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Étanche",
+            "row_heading": "Gain de temps",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -578,21 +578,7 @@
         "table_row_mkdtLW": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Pour l'extérieur",
-            "first_column": "",
-            "first_column_icon": "check",
-            "second_column": "",
-            "second_column_icon": "cross",
-            "third_column": "",
-            "third_column_icon": "none",
-            "four_column": "",
-            "four_column_icon": "none"
-          }
-        },
-        "table_row_MGqGBM": {
-          "type": "table_row",
-          "settings": {
-            "row_heading": "S’intègre partout chez vous",
+            "row_heading": "Argent",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -613,8 +599,7 @@
         "table_row_PyXLLj",
         "table_row_3Lq7T4",
         "table_row_EeqcHw",
-        "table_row_mkdtLW",
-        "table_row_MGqGBM"
+        "table_row_mkdtLW"
       ],
       "name": "SS - Comparison Table #6",
       "settings": {
@@ -622,13 +607,13 @@
         "body_gap_mobile": 32,
         "content_horizontal_align": "start",
         "content_horizontal_align_mobile": "center",
-        "heading": "<h5><strong>Onessa vs Autres Marques</strong></h5>",
+        "heading": "",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 52,
         "heading_size_mobile": 32,
         "heading_height": 150,
-        "text": "<p>Chez Onessa, nous mettons un point d’honneur sur la qualité et l’ambiance — ce n’est pas le cas de tout le monde.<br/><br/></p>",
+        "text": "<p><strong>La différence Onessa</strong></p><p>Onessa vs les Autres vs Salons<br/></p>",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 18,
@@ -716,12 +701,12 @@
         "button_bg_hover_color": "#16142b",
         "button_border_color": "#16142b",
         "button_border_hover_color": "#16142b",
-        "table_border_color": "#1a1a1a",
-        "table_active_border_color": "#1a1a1a",
+        "table_border_color": "#ffffff",
+        "table_active_border_color": "#fec6c2",
         "table_heading_color": "#1a1a1a",
         "table_heading_active_color": "#ffffff",
-        "table_heading_bg_active_color": "#1a1a1a",
-        "table_column_active_bg_color": "#1a1a1a",
+        "table_heading_bg_active_color": "#fec6c2",
+        "table_column_active_bg_color": "#fec6c2",
         "table_row_heading_color": "#1a192e",
         "table_row_text_color": "#1a192e",
         "table_row_active_text_color": "#ffffff",
