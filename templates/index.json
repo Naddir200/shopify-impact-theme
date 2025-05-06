@@ -363,6 +363,12 @@
             "collapse_content": false
           }
         },
+        "kaching_bundles_app_block_GHwdrz": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "liquid_KW46Dc": {
           "type": "liquid",
           "settings": {
@@ -401,6 +407,7 @@
         "image_f9fV6m",
         "liquid_yqwQ7g",
         "description",
+        "kaching_bundles_app_block_GHwdrz",
         "liquid_KW46Dc",
         "buy-buttons",
         "liquid_bUJfE7",
