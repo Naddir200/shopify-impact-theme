@@ -15,11 +15,13 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/photo_header.png",
+            "mobile_image": "shopify://shop_images/photo_header.png",
             "content_max_width": 820,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Enfin des pieds doux sans souffrir ni payer une fortune GATEA",
+            "title": "Enfin des pieds doux sans souffrir ni payer une fortune",
             "heading_tag": "h3",
             "button_text": "",
             "button_link": "",
@@ -54,6 +56,7 @@
         "logo_N9DW6x": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/VOGUE_revista_-_logo.png",
             "logo_width": 180,
             "link": ""
           }
@@ -61,13 +64,15 @@
         "logo_Yez86i": {
           "type": "logo",
           "settings": {
-            "logo_width": 100,
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 160,
             "link": ""
           }
         },
         "logo_EijUXT": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo_femmeactuele.png",
             "logo_width": 70,
             "link": ""
           }
@@ -75,6 +80,7 @@
         "logo_tqMPkD": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/VOGUE_revista_-_logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -140,6 +146,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Votre_texte_de_paragraphe_16.png",
+        "mobile_image": "shopify://shop_images/Votre_texte_de_paragraphe_16.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -210,6 +218,7 @@
         "item_NNabNT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/8a.jpg",
             "column_size": "3",
             "title": "Julie T.",
             "heading_tag": "h4",
@@ -222,6 +231,7 @@
         "item_tYLz9d": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/4a.jpg",
             "column_size": "3",
             "title": "Camille G.",
             "heading_tag": "h4",
@@ -234,6 +244,7 @@
         "item_EcXQL8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/2a.jpg",
             "column_size": "3",
             "title": "Sophie R.",
             "heading_tag": "h4",
@@ -247,6 +258,7 @@
           "type": "item",
           "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/st_5.jpg",
             "column_size": "3",
             "title": "Nadia M. ",
             "heading_tag": "h4",
@@ -259,6 +271,7 @@
         "item_eRjKYB": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/6a.jpg",
             "column_size": "3",
             "title": "Manon D.",
             "heading_tag": "h4",
@@ -271,6 +284,7 @@
         "item_eM8YG3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/8a.jpg",
             "column_size": "3",
             "title": "Sarah B. ",
             "heading_tag": "h4",
