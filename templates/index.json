@@ -222,7 +222,7 @@
             "column_size": "3",
             "title": "Julie T.",
             "heading_tag": "h4",
-            "content": "<p>Franchement bluffée. Je pensais que ça allait être un gadget de plus, mais mes talons sont doux comme jamais dès la première utilisation.<br/><br/></p>",
+            "content": "<p><em>J'en avais</em>assez des rasoirs jetables bas de gamme qui coupent et irritent… J’ai essayé Klyne avec ses 2 têtes, j'ai bien pu taillez et raser sans prendre de risque. Je recommande! (merci pour le gant offert d'ailleurs ^^)<br/><br/><br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -235,7 +235,7 @@
             "column_size": "3",
             "title": "Camille G.",
             "heading_tag": "h4",
-            "content": "<p>Aucune douleur, aucune sensation bizarre. Moi qui ai la peau hyper sensible, je n’ai eu aucune rougeur. C’est hyper doux.<br/><br/></p>",
+            "content": "<p><em>Pour celles qui se demandent, ce n'est pas douloureux, j’ai complètement oublié les irritations qui me hantaient. Il est agréable à utiliser, pour une fois pas une arnaque sur les réseaux...</em><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -309,6 +309,7 @@
         "item_DfpiWE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/15.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -321,6 +322,7 @@
         "item_EFMpXY": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/16.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
