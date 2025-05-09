@@ -805,6 +805,13 @@
             "content": "<p>Après chaque utilisation, rincez les têtes sous l’eau. Un petit pinceau est inclus pour un nettoyage plus précis.<br/></p>"
           }
         },
+        "item_XG8yjC": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps faut-il pour recharger Onessa ?",
+            "content": "<p>La recharge complète prend environ 30 à 45 minutes grâce à sa technologie de recharge rapide.</p><p></p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
@@ -856,6 +863,7 @@
         "item_dzwtya",
         "item_ypwEEd",
         "item_DNjtTW",
+        "item_XG8yjC",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
