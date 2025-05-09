@@ -90,6 +90,7 @@
       "blocks": {
         "stamped_reviews_main_widget_iVNEDj": {
           "type": "shopify://apps/stamped-reviews/blocks/main-widget/a103faaf-2125-4b0e-89fa-de5149736723",
+          "disabled": true,
           "settings": {
             "animation": true,
             "tags_exclude": "",
