@@ -787,15 +787,15 @@
         "item_dzwtya": {
           "type": "item",
           "settings": {
-            "title": "Que contient le coffret ?",
-            "content": "<ul><li>Appareil <strong>Onessa Soft</strong></li><li>1 tête rugueuse</li><li>1 tête douce</li><li>1 capuchon de protection</li><li>1 câble USB de recharge</li><li>1 brosse de nettoyage</li><li>1 manuel d’utilisation</li></ul>"
+            "title": "Y a-t-il un risque de coupures ou de poils incarnés ?",
+            "content": "<p>Grâce à sa conception innovante, Onessa élimine les poils sans contact direct avec la peau, minimisant les risques de coupures ou de poils incarnés.<br/><br/></p>"
           }
         },
         "item_ypwEEd": {
           "type": "item",
           "settings": {
-            "title": "Comment l’utiliser ?",
-            "content": "<p><strong>1 – Préparez votre peau</strong><br/>Assurez-vous qu’elle est bien sèche. Choisissez la tête selon vos besoins :<br/>👉 rugueuse pour les zones très abîmées,<br/>👉 douce pour lisser et finaliser.<br/>Branchez, allumez, c’est parti.</p><p><strong>2 – Glissez doucement</strong><br/>Passez l’appareil lentement sur vos pieds, sans forcer. Il s’occupe du reste et élimine les peaux mortes en quelques minutes.</p><p><strong>3 – Admirez le résultat</strong><br/>Essuyez vos pieds, appliquez un peu de crème… et profitez de la sensation de pieds tout doux, comme après un soin pro. </p>"
+            "title": "Puis-je utiliser Klyne sous la douche ?",
+            "content": "<p>Absolument ! Onessa est totalement étanche et idéal pour une utilisation sous l’eau. Utilisez-le sous la douche pour une routine rapide et pratique</p>"
           }
         },
         "166442457738b23caf-0": {
