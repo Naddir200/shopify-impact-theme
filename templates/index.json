@@ -218,7 +218,7 @@
         "item_NNabNT": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/8a.jpg",
+            "image": "shopify://shop_images/6_865df5e4-048c-4d86-bbac-a37487293c55.png",
             "column_size": "3",
             "title": "Julie T.",
             "heading_tag": "h4",
@@ -231,7 +231,7 @@
         "item_tYLz9d": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4a.jpg",
+            "image": "shopify://shop_images/7_5f465709-ab0c-45f3-80c3-1e64a43e352f.png",
             "column_size": "3",
             "title": "Camille G.",
             "heading_tag": "h4",
@@ -244,7 +244,7 @@
         "item_EcXQL8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2a.jpg",
+            "image": "shopify://shop_images/8.png",
             "column_size": "3",
             "title": "Sophie R.",
             "heading_tag": "h4",
@@ -256,9 +256,8 @@
         },
         "item_nPtdcW": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/st_5.jpg",
+            "image": "shopify://shop_images/9.png",
             "column_size": "3",
             "title": "Nadia M. ",
             "heading_tag": "h4",
@@ -271,7 +270,7 @@
         "item_eRjKYB": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/6a.jpg",
+            "image": "shopify://shop_images/10.png",
             "column_size": "3",
             "title": "Manon D.",
             "heading_tag": "h4",
@@ -284,7 +283,7 @@
         "item_eM8YG3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/8a.jpg",
+            "image": "shopify://shop_images/11.png",
             "column_size": "3",
             "title": "Sarah B. ",
             "heading_tag": "h4",
