@@ -794,8 +794,15 @@
         "item_ypwEEd": {
           "type": "item",
           "settings": {
-            "title": "Puis-je utiliser Klyne sous la douche ?",
+            "title": "Puis-je utiliser Onessa sous la douche ?",
             "content": "<p>Absolument ! Onessa est totalement étanche et idéal pour une utilisation sous l’eau. Utilisez-le sous la douche pour une routine rapide et pratique</p>"
+          }
+        },
+        "item_DNjtTW": {
+          "type": "item",
+          "settings": {
+            "title": "Comment nettoyer Onessa après utilisation ?",
+            "content": "<p>Après chaque utilisation, rincez les têtes sous l’eau. Un petit pinceau est inclus pour un nettoyage plus précis.<br/></p>"
           }
         },
         "166442457738b23caf-0": {
@@ -848,6 +855,7 @@
         "item_N8zQ9N",
         "item_dzwtya",
         "item_ypwEEd",
+        "item_DNjtTW",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
