@@ -408,7 +408,7 @@
         "kaching_bundles_app_block_GHwdrz": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
-            "product": "{{section.settings.product}}"
+            "product": "{{ section.settings.product }}"
           }
         },
         "liquid_KW46Dc": {
@@ -457,7 +457,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "onessa-soft",
+        "product": "rasoir-onessa-gant-exfoliant-offert",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
