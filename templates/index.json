@@ -572,7 +572,7 @@
         "table_row_JRp4rp": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Résultats rapides",
+            "row_heading": "Indolore & ultra doux",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -586,7 +586,7 @@
         "table_row_PyXLLj": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Sans douleur",
+            "row_heading": "Prix",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -600,7 +600,7 @@
         "table_row_3Lq7T4": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Facile à utiliser",
+            "row_heading": "Résultats",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -614,21 +614,7 @@
         "table_row_EeqcHw": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Gain de temps",
-            "first_column": "",
-            "first_column_icon": "check",
-            "second_column": "",
-            "second_column_icon": "cross",
-            "third_column": "",
-            "third_column_icon": "none",
-            "four_column": "",
-            "four_column_icon": "none"
-          }
-        },
-        "table_row_mkdtLW": {
-          "type": "table_row",
-          "settings": {
-            "row_heading": "Argent",
+            "row_heading": "Peaux sensibles",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -648,8 +634,7 @@
         "table_row_JRp4rp",
         "table_row_PyXLLj",
         "table_row_3Lq7T4",
-        "table_row_EeqcHw",
-        "table_row_mkdtLW"
+        "table_row_EeqcHw"
       ],
       "name": "SS - Comparison Table #6",
       "settings": {
