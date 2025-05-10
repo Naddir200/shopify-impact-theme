@@ -374,12 +374,6 @@
             "heading_tag": "h2"
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "separator_3Ppj9g": {
           "type": "separator",
           "settings": {}
@@ -444,7 +438,6 @@
       "block_order": [
         "liquid_YjEXbE",
         "title",
-        "price",
         "separator_3Ppj9g",
         "image_f9fV6m",
         "liquid_yqwQ7g",
